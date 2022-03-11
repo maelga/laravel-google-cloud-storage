@@ -1,12 +1,12 @@
 {
-    "name": "spatie/laravel-google-cloud-storage",
+    "name": "maelga/laravel-google-cloud-storage",
     "description": "Google Cloud Storage filesystem driver for Laravel",
     "keywords": [
         "spatie",
         "laravel",
         "laravel-google-cloud-storage"
     ],
-    "homepage": "https://github.com/spatie/laravel-google-cloud-storage",
+    "homepage": "https://github.com/maelga/laravel-google-cloud-storage",
     "license": "MIT",
     "authors": [
         {
